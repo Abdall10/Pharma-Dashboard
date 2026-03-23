@@ -49,7 +49,7 @@ Pharma Dashboard aims to address the challenges of manual pharmacy inventory man
 | Name | Role | ID |
 |------|------|----|
 | **Abdullah Raafat Madi Abdul Ghafour** | Project Manager & System Analyst | 202300489 |
-| **Eslam Mohamed Mohamed Ibraheem** | Frontend Developer | 202402099 |
+| **Eslam Mohamed Mohamed Ibraheem** | Software Developer | 202402099 |
 
 ---
 
