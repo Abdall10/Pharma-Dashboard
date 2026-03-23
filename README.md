@@ -1,6 +1,6 @@
-# 💊 Pharma Dashboard
+# 💊 Intelligent Pharma Dashboard
 
-A **Pharmacy Inventory Management System** built with **ASP.NET Core (.NET 8)**, **Blazor**, and **Microsoft SQL Server**.  
+An **Intelligent Pharmacy Inventory & Decision Support System** built with **ASP.NET Core (.NET 8)**, **Blazor**, and **Microsoft SQL Server**.  
 The system provides an interactive dashboard to manage stock, track expiry dates, and visualize sales analytics for pharmacies.
 
 ---
@@ -16,12 +16,20 @@ Pharma Dashboard aims to address the challenges of manual pharmacy inventory man
 ---
 
 ## 🧩 Features
-- 🔐 **Secure Login System** (Admin / Pharmacist / Sales Staff)
-- 💊 **Drug Management** (Add, Edit, Delete, Search)
-- ⚠️ **Automatic Alerts** for low stock & expiry
-- 📊 **Interactive Dashboard** (Sales, Items, Trends)
+
+### 🔹 Management Features
+- 🔐 **Secure Login System** (Admin / Pharmacist)
+- 💊 **Medicine Management** (Add, Edit, Delete, Search)
+- 🧾 **Sales Management System**
 - 📁 **Export Reports** (PDF / Excel)
-- 🗄 **Database Integration** with Microsoft SQL Server
+
+### 🔹 Smart Features (Decision Support)
+- 🧠 **Smart Drug Substitute Recommendation System**
+- ⚠️ **Expiry & Low Stock Alerts**
+- 🚫 **Expired Drug Selling Prevention**
+- 📊 **Interactive Dashboard Analytics**
+- 🗂 **Sales History (Audit Log)**
+- 💾 **One-Click Backup System**
 
 ---
 
@@ -101,8 +109,8 @@ Each member has their own branch:
 main        → managed by the leader (Abdullah)
 backend     → Eslam and Abdullah
 frontend    → Eslam and Abdullah
-testing     → Abdullah
-docs        → Abdullah
+testing     → Eslam and Abdullah
+docs        → Eslam and Abdullah
 ```
 
 ### 🔹 2. Pushing Code
