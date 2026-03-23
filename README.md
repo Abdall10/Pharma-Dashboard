@@ -40,11 +40,8 @@ Pharma Dashboard aims to address the challenges of manual pharmacy inventory man
 ## 👥 Team Members
 | Name | Role | ID |
 |------|------|----|
-| **Abdulwahab Ayman Sami Ibrahim** | Backend Developer | 202400540 |
 | **Abdullah Raafat Madi Abdul Ghafour** | Project Manager & System Analyst | 202300489 |
 | **Eslam Mohamed Mohamed Ibraheem** | Frontend Developer | 202402099 |
-| **Mohamed Said Mohamed Fawy** | Testing & QA Engineer | 202300512 |
-| **Samer Wagdy Wasely Shaker** | Documentation & Presentation | 202400596 |
 
 ---
 
@@ -102,10 +99,10 @@ To keep our work organized and consistent, every team member should follow these
 Each member has their own branch:
 ```
 main        → managed by the leader (Abdullah)
-backend     → Abdulwahab
-frontend    → Eslam
-testing     → Mohamed
-docs        → Samer
+backend     → Eslam and Abdullah
+frontend    → Eslam and Abdullah
+testing     → Abdullah
+docs        → Abdullah
 ```
 
 ### 🔹 2. Pushing Code
@@ -150,7 +147,6 @@ git push origin your-branch-name
 ## 🏁 Acknowledgment
 We would like to express our sincere gratitude to  
 **Dr. Nermeen Hamza** – Project Supervisor  
-and **Dr. Nesreen Abdelazim** – Project Skills Instructor  
 for their guidance, support, and encouragement throughout this project.
 
 ---
